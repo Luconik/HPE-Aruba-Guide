@@ -1,0 +1,19 @@
+# Sources de référence uniquement — ne pas publier
+Copilot_Claude_Analysis.zip
+HPEN Partner & Customer Reference Guide.pdf
+
+# Secrets and local configuration
+.env
+.env.*
+*.secret
+*.token
+
+# OS/editor files
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# Temporary files
+*.tmp
+*.swp
