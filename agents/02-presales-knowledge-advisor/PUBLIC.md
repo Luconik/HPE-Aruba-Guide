@@ -15,6 +15,6 @@ A knowledge-grounded assistant for presales teams working across networking tech
 
 ## Public screenshots
 
-- [11.12.46 — Teams response](../../Screenshot%202026-08-11%20at%2011.12.46.png)
+- [11.12.46 — Teams response](../../captures/presales-knowledge-advisor/08-teams-demo.png)
 
 The screenshot is caviardée and should be reviewed together with the publishing checklist.

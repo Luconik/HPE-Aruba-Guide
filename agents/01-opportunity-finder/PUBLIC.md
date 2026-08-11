@@ -22,6 +22,6 @@ A Copilot Studio agent that helps a technical sales team turn two operational so
 
 ## Public screenshots
 
-- [11.15.37 — Teams response](../../Screenshot%202026-08-11%20at%2011.15.37.png)
+- [11.15.37 — Teams response](../../captures/opportunity-finder/09-teams-demo.png)
 
 Use the caviardée capture with synthetic or approved business data only.

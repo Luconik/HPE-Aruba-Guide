@@ -13,18 +13,18 @@ Assistant de génération de dashboards factuels à partir de données commercia
 - Recherche web : indiquée comme activée dans la fiche source ; à confirmer dans les captures.
 ## Captures associées
 
-- [10.59.02 — vue générale/instructions](../../Screenshot%202026-08-11%20at%2010.59.02.png)
-- [10.59.59 — détail de l’agent](../../Screenshot%202026-08-11%20at%2010.59.59.png)
-- [11.00.23 — onglet Tools](../../Screenshot%202026-08-11%20at%2011.00.23.png)
-- [11.00.47 — détail des outils](../../Screenshot%202026-08-11%20at%2011.00.47.png)
-- [11.01.37 — configuration/publication](../../Screenshot%202026-08-11%20at%2011.01.37.png)
-- [11.02.13 — canaux/publication](../../Screenshot%202026-08-11%20at%2011.02.13.png)
-- [11.02.36 — distribution](../../Screenshot%202026-08-11%20at%2011.02.36.png)
-- [11.03.01 — partage](../../Screenshot%202026-08-11%20at%2011.03.01.png)
+- [10.59.02 — vue générale/instructions](../../captures/opportunity-finder/01-overview-instructions.png)
+- [10.59.59 — détail de l’agent](../../captures/opportunity-finder/02-agent-details.png)
+- [11.00.23 — onglet Tools](../../captures/opportunity-finder/03-tools-overview.png)
+- [11.00.47 — détail des outils](../../captures/opportunity-finder/04-tool-details.png)
+- [11.01.37 — configuration/publication](../../captures/opportunity-finder/05-publication.png)
+- [11.02.13 — canaux/publication](../../captures/opportunity-finder/06-publication-channels.png)
+- [11.02.36 — distribution](../../captures/opportunity-finder/07-distribution.png)
+- [11.03.01 — partage](../../captures/opportunity-finder/08-sharing.png)
 
 ## Démonstration Teams
 
-- [11.15.37 — réponse de HPE France Opportunity Finder](../../Screenshot%202026-08-11%20at%2011.15.37.png)
+- [11.15.37 — réponse de HPE France Opportunity Finder](../../captures/opportunity-finder/09-teams-demo.png)
 
 Cette capture est caviardée et associée à cet agent.
 

@@ -6,55 +6,55 @@ Les captures présentes à la racine sont les versions caviardées destinées à
 
 Captures probablement associées à la configuration, aux outils MCP, aux canaux et au partage :
 
-- `Screenshot 2026-08-11 at 10.32.52.png` — liste des agents / contexte Copilot Studio
-- `Screenshot 2026-08-11 at 10.33.49.png` — vue générale de l'agent
-- `Screenshot 2026-08-11 at 10.34.09.png` — écran de configuration/knowledge à confirmer
-- `Screenshot 2026-08-11 at 10.34.29.png` — onglet Tools
-- `Screenshot 2026-08-11 at 10.34.58.png` — détail d'un outil ou d'une configuration
-- `Screenshot 2026-08-11 at 10.35.48.png` — détail d'un second outil ou configuration
-- `Screenshot 2026-08-11 at 10.36.11.png` — ajout d'un outil
-- `Screenshot 2026-08-11 at 10.36.55.png` — ajout/configuration d'un serveur MCP
-- `Screenshot 2026-08-11 at 10.37.42.png` — channels/publication
-- `Screenshot 2026-08-11 at 10.38.12.png` — choix de canal ou distribution
-- `Screenshot 2026-08-11 at 10.38.49.png` — partage de l'agent
+- `captures/aruba-network-assistant/01-copilot-studio-context.png` — liste des agents / contexte Copilot Studio
+- `captures/aruba-network-assistant/02-agent-overview.png` — vue générale de l'agent
+- `captures/aruba-network-assistant/03-configuration-knowledge.png` — écran de configuration/knowledge à confirmer
+- `captures/aruba-network-assistant/04-tools-overview.png` — onglet Tools
+- `captures/aruba-network-assistant/05-tool-details.png` — détail d'un outil ou d'une configuration
+- `captures/aruba-network-assistant/06-second-tool-details.png` — détail d'un second outil ou configuration
+- `captures/aruba-network-assistant/07-add-tool.png` — ajout d'un outil
+- `captures/aruba-network-assistant/08-mcp-configuration.png` — ajout/configuration d'un serveur MCP
+- `captures/aruba-network-assistant/09-publication-channels.png` — channels/publication
+- `captures/aruba-network-assistant/10-distribution.png` — choix de canal ou distribution
+- `captures/aruba-network-assistant/11-sharing.png` — partage de l'agent
 
 ## Partner & Customer Reference Guide
 
-- `Screenshot 2026-08-11 at 10.45.11.png` — vue générale / instructions
-- `Screenshot 2026-08-11 at 10.45.38.png` — détail de l'agent
-- `Screenshot 2026-08-11 at 10.46.33.png` — knowledge avec le PDF de référence
-- `Screenshot 2026-08-11 at 10.47.25.png` — écran de configuration/publication
-- `Screenshot 2026-08-11 at 10.47.48.png` — channels/publication
-- `Screenshot 2026-08-11 at 10.48.24.png` — partage de l'agent
+- `captures/partner-customer-reference-guide/01-overview-instructions.png` — vue générale / instructions
+- `captures/partner-customer-reference-guide/02-agent-details.png` — détail de l'agent
+- `captures/partner-customer-reference-guide/03-knowledge-pdf.png` — knowledge avec le PDF de référence
+- `captures/partner-customer-reference-guide/04-publication.png` — écran de configuration/publication
+- `captures/partner-customer-reference-guide/05-publication-channels.png` — channels/publication
+- `captures/partner-customer-reference-guide/06-sharing.png` — partage de l'agent
 
 ## Presales Knowledge Advisor
 
-- `Screenshot 2026-08-11 at 10.53.23.png` — vue générale / instructions
-- `Screenshot 2026-08-11 at 10.54.11.png` — détail de l'agent
-- `Screenshot 2026-08-11 at 10.54.51.png` — onglet Knowledge
-- `Screenshot 2026-08-11 at 10.55.08.png` — liste de sources documentaires
-- `Screenshot 2026-08-11 at 10.55.43.png` — configuration/publication
-- `Screenshot 2026-08-11 at 10.56.04.png` — channels/publication
-- `Screenshot 2026-08-11 at 10.56.21.png` — partage de l'agent
+- `captures/presales-knowledge-advisor/01-overview-instructions.png` — vue générale / instructions
+- `captures/presales-knowledge-advisor/02-agent-details.png` — détail de l'agent
+- `captures/presales-knowledge-advisor/03-knowledge.png` — onglet Knowledge
+- `captures/presales-knowledge-advisor/04-document-sources.png` — liste de sources documentaires
+- `captures/presales-knowledge-advisor/05-publication.png` — configuration/publication
+- `captures/presales-knowledge-advisor/06-publication-channels.png` — channels/publication
+- `captures/presales-knowledge-advisor/07-sharing.png` — partage de l'agent
 
 ## Opportunity Finder
 
-- `Screenshot 2026-08-11 at 10.59.02.png` — vue générale / instructions
-- `Screenshot 2026-08-11 at 10.59.59.png` — détail de l'agent
-- `Screenshot 2026-08-11 at 11.00.23.png` — onglet Tools
-- `Screenshot 2026-08-11 at 11.00.47.png` — détail des outils
-- `Screenshot 2026-08-11 at 11.01.37.png` — configuration/publication
-- `Screenshot 2026-08-11 at 11.02.13.png` — channels/publication
-- `Screenshot 2026-08-11 at 11.02.36.png` — distribution
-- `Screenshot 2026-08-11 at 11.03.01.png` — partage de l'agent
+- `captures/opportunity-finder/01-overview-instructions.png` — vue générale / instructions
+- `captures/opportunity-finder/02-agent-details.png` — détail de l'agent
+- `captures/opportunity-finder/03-tools-overview.png` — onglet Tools
+- `captures/opportunity-finder/04-tool-details.png` — détail des outils
+- `captures/opportunity-finder/05-publication.png` — configuration/publication
+- `captures/opportunity-finder/06-publication-channels.png` — channels/publication
+- `captures/opportunity-finder/07-distribution.png` — distribution
+- `captures/opportunity-finder/08-sharing.png` — partage de l'agent
 
 ## Démonstrations Copilot App et Teams
 
-- `Screenshot 2026-08-11 at 11.09.19.png` — vue générale dans Copilot App
-- `Screenshot 2026-08-11 at 11.10.11.png` — Aruba Network Assistant, vue dans Teams
-- `Screenshot 2026-08-11 at 11.12.46.png` — HPE Networking Presales Advisor, vue dans Teams
-- `Screenshot 2026-08-11 at 11.14.01.png` — HPEN Partner & Customer Reference, vue dans Teams
-- `Screenshot 2026-08-11 at 11.15.37.png` — HPE France Opportunity Finder, vue dans Teams
+- `captures/aruba-network-assistant/12-copilot-app-overview.png` — vue générale dans Copilot App
+- `captures/aruba-network-assistant/13-teams-demo.png` — Aruba Network Assistant, vue dans Teams
+- `captures/presales-knowledge-advisor/08-teams-demo.png` — HPE Networking Presales Advisor, vue dans Teams
+- `captures/partner-customer-reference-guide/07-teams-demo.png` — HPEN Partner & Customer Reference, vue dans Teams
+- `captures/opportunity-finder/09-teams-demo.png` — HPE France Opportunity Finder, vue dans Teams
 
 Les cinq captures sont caviardées et associées aux fiches correspondantes lorsque l’agent est identifiable.
 

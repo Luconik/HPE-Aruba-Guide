@@ -16,6 +16,6 @@ A Copilot Studio assistant connected to network-management capabilities through 
 
 ## Public screenshots
 
-- [11.10.11 — Teams demonstration](../../Screenshot%202026-08-11%20at%2011.10.11.png)
+- [11.10.11 — Teams demonstration](../../captures/aruba-network-assistant/13-teams-demo.png)
 
 Use the cleaned capture only; do not add live tenant, endpoint or device details.

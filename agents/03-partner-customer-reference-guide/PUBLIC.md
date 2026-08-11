@@ -12,6 +12,6 @@ The agent should route users to authoritative resources rather than reproduce la
 
 ## Public screenshots
 
-- [11.14.01 — Teams response](../../Screenshot%202026-08-11%20at%2011.14.01.png)
+- [11.14.01 — Teams response](../../captures/partner-customer-reference-guide/07-teams-demo.png)
 
 Prefer this cleaned response view over the internal sharing screen.

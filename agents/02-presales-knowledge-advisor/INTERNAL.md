@@ -11,17 +11,17 @@
 
 ## Captures associées
 
-- [10.53.23 — vue générale/instructions](../../Screenshot%202026-08-11%20at%2010.53.23.png)
-- [10.54.11 — détail de l’agent](../../Screenshot%202026-08-11%20at%2010.54.11.png)
-- [10.54.51 — onglet Knowledge](../../Screenshot%202026-08-11%20at%2010.54.51.png)
-- [10.55.08 — sources documentaires](../../Screenshot%202026-08-11%20at%2010.55.08.png)
-- [10.55.43 — configuration/publication](../../Screenshot%202026-08-11%20at%2010.55.43.png)
-- [10.56.04 — canaux/publication](../../Screenshot%202026-08-11%20at%2010.56.04.png)
-- [10.56.21 — partage](../../Screenshot%202026-08-11%20at%2010.56.21.png)
+- [10.53.23 — vue générale/instructions](../../captures/presales-knowledge-advisor/01-overview-instructions.png)
+- [10.54.11 — détail de l’agent](../../captures/presales-knowledge-advisor/02-agent-details.png)
+- [10.54.51 — onglet Knowledge](../../captures/presales-knowledge-advisor/03-knowledge.png)
+- [10.55.08 — sources documentaires](../../captures/presales-knowledge-advisor/04-document-sources.png)
+- [10.55.43 — configuration/publication](../../captures/presales-knowledge-advisor/05-publication.png)
+- [10.56.04 — canaux/publication](../../captures/presales-knowledge-advisor/06-publication-channels.png)
+- [10.56.21 — partage](../../captures/presales-knowledge-advisor/07-sharing.png)
 
 ## Démonstration Teams
 
-- [11.12.46 — réponse de HPE Networking Presales Advisor](../../Screenshot%202026-08-11%20at%2011.12.46.png)
+- [11.12.46 — réponse de HPE Networking Presales Advisor](../../captures/presales-knowledge-advisor/08-teams-demo.png)
 
 Cette capture est caviardée et associée à cet agent.
 

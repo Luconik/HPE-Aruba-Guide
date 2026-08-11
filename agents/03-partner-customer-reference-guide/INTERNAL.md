@@ -10,12 +10,12 @@
 
 ## Captures associées
 
-- [10.45.11 — vue générale/instructions](../../Screenshot%202026-08-11%20at%2010.45.11.png)
-- [10.45.38 — détail de l’agent](../../Screenshot%202026-08-11%20at%2010.45.38.png)
-- [10.46.33 — source PDF dans Knowledge](../../Screenshot%202026-08-11%20at%2010.46.33.png)
-- [10.47.25 — configuration/publication](../../Screenshot%202026-08-11%20at%2010.47.25.png)
-- [10.47.48 — canaux/publication](../../Screenshot%202026-08-11%20at%2010.47.48.png)
-- [10.48.24 — partage](../../Screenshot%202026-08-11%20at%2010.48.24.png)
+- [10.45.11 — vue générale/instructions](../../captures/partner-customer-reference-guide/01-overview-instructions.png)
+- [10.45.38 — détail de l’agent](../../captures/partner-customer-reference-guide/02-agent-details.png)
+- [10.46.33 — source PDF dans Knowledge](../../captures/partner-customer-reference-guide/03-knowledge-pdf.png)
+- [10.47.25 — configuration/publication](../../captures/partner-customer-reference-guide/04-publication.png)
+- [10.47.48 — canaux/publication](../../captures/partner-customer-reference-guide/05-publication-channels.png)
+- [10.48.24 — partage](../../captures/partner-customer-reference-guide/06-sharing.png)
 
 ## Source documentaire
 
@@ -23,7 +23,7 @@ Le PDF présent dans le dossier contient une compilation de ressources HPE Netwo
 
 ## Démonstration Teams
 
-- [11.14.01 — réponse de HPEN Partner & Customer Reference](../../Screenshot%202026-08-11%20at%2011.14.01.png)
+- [11.14.01 — réponse de HPEN Partner & Customer Reference](../../captures/partner-customer-reference-guide/07-teams-demo.png)
 
 Cette capture est caviardée et associée à cet agent.
 
